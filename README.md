@@ -4,11 +4,10 @@
 This Android app enhances user navigation and interaction through a navigation drawer and two activities with RecyclerView fragments. The app focuses on a visually appealing UI and implements various navigation and interaction features.
 
 ## Table of Contents
-1. [Look and Feel](#look-and-feel)
-2. [Task 1 - Navigation Drawer](#task-1---navigation-drawer)
-3. [Task 2](#task-2)
-4. [Task 3](#task-3)
-5. [README for GitHub](#readme-for-github)
+1. [Task 1 - Navigation Drawer](#task-1---navigation-drawer)
+2. [Task 2](#task-2)
+3. [Task 3](#task-3)
+4. [README for GitHub](#readme-for-github)
 
 ### Overview
 The quality of the UI will be evaluated based on its appearance and user experience.
